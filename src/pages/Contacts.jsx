@@ -121,7 +121,7 @@ const Contacts = () => {
   };
 
   useEffect(() => {
-    Aos.init({ duration: 2000 });
+    Aos.init({ duration: 1500 });
   }, []);
 
   /* ================================
@@ -131,7 +131,7 @@ const Contacts = () => {
   return (
     <Container>
       <Title data-aos="fade-right">Contact Me</Title>
-      <Form onSubmit={handleSubmit}>
+      <Form onSubmit={handleSubmit} data-aos="flip-left">
         <Input
           type="text"
           name="firstName"

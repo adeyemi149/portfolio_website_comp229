@@ -167,14 +167,10 @@ function Projects() {
             </ProjectDescription>
           </ProjectInfo>
         </ProjectCard>
-        <ProjectCard
-          href="https://password-generator-adeyemi149.vercel.app/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ProjectCard href="" target="_blank" rel="noopener noreferrer">
           <ProjectImage src={project5} alt="Project 4" />
           <ProjectInfo>
-            <ProjectTitle>Social Media App</ProjectTitle>
+            <ProjectTitle>Workbench</ProjectTitle>
             <ProjectDescription></ProjectDescription>
           </ProjectInfo>
         </ProjectCard>

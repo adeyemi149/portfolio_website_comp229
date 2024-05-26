@@ -76,7 +76,7 @@ function About() {
       <Image src={profileimg} alt="John Doe" data-aos="fade-down" />
       <div data-aos="fade-up">
         <Bio>
-          Greetings! My name is Alimi Adeyemi, and I am a dedicated software
+          Greetings! My name is Adeyemi Alimi, and I am a dedicated software
           engineer with a passion for creating exceptional products using
           cutting-edge web technologies harnessing the power of technology to
           deliver innovative solutions.
