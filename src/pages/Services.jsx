@@ -38,7 +38,7 @@ const Container = styled.div`
 
   @font-face {
     font-family: "Reddit Mono";
-    src: url(../public/fonts/RedditMono-VariableFont_wght.ttf);
+    src: url(../fonts/RedditMono-VariableFont_wght.ttf);
   }
 `;
 

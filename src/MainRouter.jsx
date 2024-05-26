@@ -1,3 +1,9 @@
+// MainRouter.js
+// File name: MainRouter.js
+// Student's Name: Adeyemi Alimi
+// Student ID: 301374506
+// Date: 25-05-2024
+
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";

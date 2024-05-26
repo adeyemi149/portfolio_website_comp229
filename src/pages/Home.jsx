@@ -7,8 +7,9 @@
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 import Aos from "aos";
-import "aos/dist/aos.css";
 import { useEffect } from "react";
+
+import "aos/dist/aos.css";
 
 /* ================================
    Styled Components
@@ -27,7 +28,7 @@ const Container = styled.div`
 
   @font-face {
     font-family: "Reddit Mono";
-    src: url(../public/fonts/RedditMono-VariableFont_wght.ttf);
+    src: url(../fonts/RedditMono-VariableFont_wght.ttf);
   }
 `;
 
